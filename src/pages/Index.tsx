@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Clock, Users, DollarSign, Scale, CheckCircle, Edit3 } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -69,9 +68,6 @@ const Index = () => {
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-[#B0C4De]">
               Master the art of effective time entries to build client trust, ensure compliance, and demonstrate value
             </p>
-            <Badge variant="secondary" className="text-lg px-6 py-2 bg-white/20 backdrop-blur-sm">
-              Interactive Guide
-            </Badge>
           </div>
         </div>
       </div>
